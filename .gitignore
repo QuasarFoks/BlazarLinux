@@ -1,0 +1,47 @@
+# Бинарники и исполняемые файлы
+*.o
+*.a
+*.so
+*.so.*
+*.la
+*.lo
+*.exe
+*.dll
+*.dylib
+*.out
+*.elf
+a.out
+
+# Артефакты сборки
+build/
+_build/
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.zip
+*.iso
+*.img
+*.bin
+*.raw
+
+# Директории релизов и временных файлов
+releases/
+dist/
+tmp/
+temp/
+
+# IDE и редакторы
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Логи и дампы
+*.log
+*.dmp
+core
+core.*
