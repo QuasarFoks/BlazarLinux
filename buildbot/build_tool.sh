@@ -3,7 +3,7 @@
 # 	BLAZAR LINUX BUILD
 #
 set -euo pipefail
-set -x
+#set -x
 # Важные переменные 
 export BLAZAR=/mnt/blazar
 export TOOL="$BLAZAR"/tools

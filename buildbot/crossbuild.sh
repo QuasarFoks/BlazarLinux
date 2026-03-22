@@ -3,7 +3,7 @@
 #  OS: BLAZARLINUX
 #  TYPE: Cross building
 set -euo pipefail
-set -x
+#set -x
 
 
 # Сборка BlazarLinux из исходников
